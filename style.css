@@ -93,7 +93,7 @@ body{
 }
 /* Food Items */
 .food-items{
-    display: none;              
+    /* display: none;               */
 }
 #biryani,#chicken,#paneer,#vegetable,#south-indian{
     margin-top: 40px;
@@ -221,11 +221,11 @@ body{
 }
 /* Catagory list items */
 #catagory-list{
-    display: none;
+    /* display: none; */
 }
 /* Cart toggle */
 .cart-toggle{
-/* display:  none; */
+display:  none;
 }
 #cart-page{
     background: white;
